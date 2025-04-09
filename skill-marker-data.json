@@ -1,0 +1,9 @@
+{
+  "auto_summarize_checkbox": true,
+  "job_selectors": {
+    "www.linkedin.com": [
+      "#job-details"
+    ]
+  },
+  "show_on_page_checkbox": l
+}
