@@ -1,7 +1,37 @@
 {
   "job_selectors": {
+    "careers.walmart.com": [
+      "section.job-details div.job-description"
+    ],
+    "jobs.careers.microsoft.com": [
+      "#job-search-app div.ms-Stack div.ms-Stack div.ms-DocumentCard div.ms-DocumentCard"
+    ],
+    "www.amazon.jobs": [
+      "#job-detail-body"
+    ],
+    "www.careerbuilder.com": [
+      "#jdp_description"
+    ],
+    "www.dice.com": [
+      "#jobDescription"
+    ],
+    "www.glassdoor.com": [
+      "#app-navigation div.PageContainer_pageContainer__CVcfg div.TwoColumnLayout_container___jk7P div.TwoColumnLayout_columnRight__GRvqO div.TwoColumnLayout_jobDetailsContainer__qyvJZ div.JobDetails_jobDetailsContainer__y9P3L section section.Section_sectionComponent__nRsB2"
+    ],
+    "www.google.com": [
+      "#yDmH0d c-wiz c-wiz.zQTmif div.T4LgNb div div div.fgc1jd div.BiNgOe main.SxL7od div.ObfsIf-haAclf c-wiz div div div span div.DkhPwc"
+    ],
+    "www.indeed.com": [
+      "#jobDescriptionText"
+    ],
     "www.linkedin.com": [
       "#job-details"
+    ],
+    "www.metacareers.com": [
+      "#careersContentContainer div._8lfq div._3gel div._25xa div._25x1 div._25w_ div._8muv div"
+    ],
+    "www.monster.com": [
+      "[data-testid='svx-description-container-inner']"
     ]
   }
 }
